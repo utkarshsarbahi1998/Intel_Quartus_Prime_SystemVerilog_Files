@@ -7,3 +7,5 @@
 ### 2. Clock Generator
 
 ### 3. Event Counter
+
+### 4. Arithmetic and Logical Calculator
