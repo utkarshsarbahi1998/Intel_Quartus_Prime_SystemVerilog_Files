@@ -1,4 +1,4 @@
-## Intel Quartus Prime SystemVerilog Files - EEET2604 Digital Systems Design 1
+## Intel Quartus Prime | SystemVerilog - EEET2604 Digital Systems Design 1
 
 ##### Designed and simulated on Intel Quartus Prime, and implemented on DE10-Standard Cyclone DE Board
 
