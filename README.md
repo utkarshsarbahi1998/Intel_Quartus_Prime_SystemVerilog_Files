@@ -1,2 +1,5 @@
-# Intel_Quartus_Prime_SystemVerilog_Files
-Intel Quartus Prime SystemVerilog Files
+# Intel Quartus Prime SystemVerilog Files
+
+##### Designed and simulated on Intel Quartus Prime, and implemented on DE10-Standard Cyclone DE Board
+
+### 1. Decimal Number Display Controller
