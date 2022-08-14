@@ -6,4 +6,4 @@
 
 ### 2. Clock Generator
 
-### 3. 
+### 3. Event Counter
